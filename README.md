@@ -2,7 +2,7 @@
 
 [![addubois's 42 stats](https://badge42.vercel.app/api/v2/cl4pg0oun004409kx3yb93gtp/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valnor280)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Valnor280&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Valnor280/Valnor280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
